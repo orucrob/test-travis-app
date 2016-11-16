@@ -1,0 +1,13 @@
+bin
+.project
+.classpath
+target
+.settings
+.gradle
+.metadata
+.idea
+build
+archive
+sdk
+.sass-cache
+.DS_Store
